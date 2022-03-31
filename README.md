@@ -5,5 +5,5 @@ The objective here is to develop a demographic segmentation model that will noti
 ```bash
 $ pip install -r requirement.txt
 ```
-![model's output](./Figure1.png)
+![model's output](./figure1.png)
 
